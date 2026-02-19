@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="com.example.timerapp" version="1.0.0">
+    <label>Timer</label>
+    <description>A multitimer application for Tizen devices</description>
+    <author email="developer@example.com">Developer</author>
+    
+    <ui-application appid="com.example.timerapp" exec="TimerApp" type="csharp" multiple="false">
+        <label>Timer</label>
+        <icon>icon.png</icon>
+        <metadata key="http://samsung.com/metadata/use_renderer">USE_GL</metadata>
+    </ui-application>
+    
+    <service-application appid="com.example.timerapp.service" exec="timerservice" type="csharp">
+        <label>TimerService</label>
+    </service-application>
+    
+    <privileges>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+    </privileges>
+    
+    <feature name="http://tizen.org/feature/screen.size.normal">true</feature>
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <Solution>TimerApp</Solution>
+  </PropertyGroup>
+  <ItemGroup>
+    <Project Include="TimerService/TimerService.csproj">
+      <Name>TimerService</Name>
+    </Project>
+    <Project Include="TimerUI/TimerUI.csproj">
+      <Name>TimerUI</Name>
+    </Project>
+  </ItemGroup>
+</Project>
