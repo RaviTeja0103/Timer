@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Tizen.NET.Sdk/1.2.1">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>tizen90</TargetFramework>
+    <ProjectGuid>13e61310-6e66-48c4-8ef5-06dac72ce070</ProjectGuid>
+    <Title>TimerUI</Title>
+    <Authors>Developer</Authors>
+    <Product>TimerUI</Product>
+    <AssemblyName>TimerApp</AssemblyName>
+    <RootNamespace>TimerUI</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <StartupObject>TimerUI.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tizen.NET" Version="9.0.0.18274" />
+    <PackageReference Include="Tizen.NET.Sdk" Version="1.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimerService\TimerService.csproj" />
+  </ItemGroup>
+
+</Project>

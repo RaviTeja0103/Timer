@@ -1,0 +1,4 @@
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/bin/Debug/tizen90/tpkroot/bin/TimerService.dll
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/bin/Debug/tizen90/tpkroot/bin/TimerService.pdb
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/bin/Debug/tizen90/tpkroot/TimerService.deps.json
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/bin/Debug/tizen90/-.tpk

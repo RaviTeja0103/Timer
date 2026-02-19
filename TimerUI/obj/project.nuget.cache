@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrxJKJ2n7b0=",
+  "success": true,
+  "projectFilePath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ritadas/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/ritadas/.nuget/packages/tizen.net/10.0.0.17508/tizen.net.10.0.0.17508.nupkg.sha512",
+    "/Users/ritadas/.nuget/packages/tizen.net.api9/9.0.0.16760/tizen.net.api9.9.0.0.16760.nupkg.sha512",
+    "/Users/ritadas/.nuget/packages/tizen.net.sdk/1.2.1/tizen.net.sdk.1.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TimerApp depends on Tizen.NET (>= 9.0.0.18274) but Tizen.NET 9.0.0.18274 was not found. Tizen.NET 10.0.0.17508 was resolved instead.",
+      "projectPath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj",
+      "libraryId": "Tizen.NET",
+      "targetGraphs": [
+        "Tizen,Version=v9.0"
+      ]
+    }
+  ]
+}

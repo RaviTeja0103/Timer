@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Tizen.NET.Sdk/1.2.1">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>tizen90</TargetFramework>
+    <ProjectGuid>23f71410-7f77-58d4-9gf6-17ebd83df081</ProjectGuid>
+    <Title>TimerService</Title>
+    <Authors>Developer</Authors>
+    <Product>TimerService</Product>
+    <AssemblyName>TimerService</AssemblyName>
+    <RootNamespace>TimerService</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tizen.NET" Version="9.0.0.18274" />
+    <PackageReference Include="Tizen.NET.Sdk" Version="1.2.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": "Tizen,Version=v9.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "Tizen,Version=v9.0": {},
+    "Tizen,Version=v9.0/": {
+      "TimerApp/1.0.0": {
+        "dependencies": {
+          "TimerService": "1.0.0"
+        },
+        "runtime": {
+          "TimerApp.dll": {}
+        }
+      },
+      "TimerService/1.0.0": {
+        "runtime": {
+          "TimerService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimerService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

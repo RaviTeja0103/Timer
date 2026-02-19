@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj": {}
+  },
+  "projects": {
+    "/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/TimerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/TimerService.csproj",
+        "projectName": "TimerService",
+        "projectPath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/TimerService.csproj",
+        "packagesPath": "/Users/ritadas/.nuget/packages/",
+        "outputPath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ritadas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "tizen90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "tizen90": {
+            "targetAlias": "tizen90",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "tizen90": {
+          "targetAlias": "tizen90",
+          "dependencies": {
+            "Tizen.NET": {
+              "target": "Package",
+              "version": "[9.0.0.18274, )"
+            },
+            "Tizen.NET.Sdk": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj",
+        "projectName": "TimerApp",
+        "projectPath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/TimerUI.csproj",
+        "packagesPath": "/Users/ritadas/.nuget/packages/",
+        "outputPath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ritadas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "tizen90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "tizen90": {
+            "targetAlias": "tizen90",
+            "projectReferences": {
+              "/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/TimerService.csproj": {
+                "projectPath": "/Users/ritadas/Desktop/Ravi/TimerApp/TimerService/TimerService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "tizen90": {
+          "targetAlias": "tizen90",
+          "dependencies": {
+            "Tizen.NET": {
+              "target": "Package",
+              "version": "[9.0.0.18274, )"
+            },
+            "Tizen.NET.Sdk": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

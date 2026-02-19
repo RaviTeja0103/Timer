@@ -1,0 +1,11 @@
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/bin/Debug/tizen90/TimerApp.deps.json
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/bin/Debug/tizen90/TimerApp.dll
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/bin/Debug/tizen90/TimerApp.pdb
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/bin/Debug/tizen90/TimerService.dll
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/bin/Debug/tizen90/TimerService.pdb
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/Debug/tizen90/TimerUI.csproj.AssemblyReference.cache
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/Debug/tizen90/TimerUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/Debug/tizen90/TimerUI.csproj.CoreCompileInputs.cache
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/Debug/tizen90/TimerUI.csproj.Up2Date
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/Debug/tizen90/TimerApp.dll
+/Users/ritadas/Desktop/Ravi/TimerApp/TimerUI/obj/Debug/tizen90/TimerApp.pdb
